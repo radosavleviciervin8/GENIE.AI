@@ -1,0 +1,6 @@
+{
+  "name": "GENIE.AI - Sovereign Public Sector AI (Ervin Remus Radosavlevici Fork)",
+  "description": "Production-ready sovereign RAG framework aligned with International Human Rights Law ethics (UDHR, UNESCO Ethics of AI) with advanced verification, document sovereignty, and auditable governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
